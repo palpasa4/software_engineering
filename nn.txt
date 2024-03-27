@@ -1,0 +1,13 @@
+<form action="" method="POST">
+            <p class="text-center text-black fs-4 fw-bold">Login Your Account:</p>
+            <div class="mb-3">
+                <input type="email" name="email" placeholder="Email" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <input type="password" name="password" placeholder="Password" class="form-control" required>
+            </div>
+
+            <div class="text-center mb-3" >
+                <input type="submit" name="login_btn" class="btn btn-primary" value="LogIn" >
+            </div>
+            </form>

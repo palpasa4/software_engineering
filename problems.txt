@@ -1,0 +1,18 @@
+video 1: (nav bar create)
+1. if home page opened then only 'home' button bright.
+2. no popup window?
+
+video 2: (login page) 1- admin 0-coadmin
+1. invalid info: cannot modify header info 
+
+2. No message shown for invalid input?!!
+
+video-3 Login Page
+1. after logging in, simply back-> login page reach
+while theu ser should be redirected to the same logged in page?!!!
+
+2. in the logged in admin page, even after refresh, redirecting to the login page why?
+
+
+Feb 11
+Why username not displayed in the index page.
